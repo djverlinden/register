@@ -1,0 +1,10 @@
+{
+  "description": "Synnefo webSite",
+  "owner": {
+        "username": "Synnefo",
+        "email": "info@synnefo.online"
+  },
+  "record": {
+    "CNAME": "synnefo.online"
+  }
+}
